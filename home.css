@@ -1,0 +1,41 @@
+ul{
+    display: flex;
+    justify-content: flex-end;
+}
+li{
+    display: inline-block;
+    margin: 10px 20px;
+    font-weight: 600;
+}
+body{
+     background-image: url(../../../download/learn-animation-at-home.jpg);
+}
+.aa{
+    margin: 5%;
+    display: flex;
+    padding: 80px 10%;
+    justify-content: space-between;
+    color: red;
+}
+.bb{
+    display: flex;
+    justify-content:end;
+    width: 50%;
+}
+h1{
+    margin: 50px;
+}
+div img{
+    width: 50%;
+    float: right;
+}
+.cc{
+    display: flex;
+    justify-content:center;
+}
+.dd{
+    margin-left: 20px;
+}
+p{
+    text-align-last:left;
+}
